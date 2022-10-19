@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @UardemDantas
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-UardemDantas/UardemDantas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<body>
+  <center>
+<h1 align="center"> 👋 Hi, I’m @UardemDantas </h1>
+<br>
+ <div align='center' class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/x8WUSWsQ8bgboOJEY82-_A/626225376882016256" data-did="e6511386f695792928f40a964cb7d486f6b32aa5"><a href="https://animeglitch.tumblr.com/post/626225376882016256/3">https://animeglitch.tumblr.com/post/626225376882016256/3</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
