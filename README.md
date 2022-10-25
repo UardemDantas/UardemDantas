@@ -9,8 +9,8 @@
     <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
     <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
     <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
-    <a href="https://getbootstrap.com/" title="Bootstrap"><img src="icons/bootstrapp.png" /></a>
-    <a href="https://tailwindcss.com/" title="Tailwind"><img src="icons/tailwindd.png" /></a>
+    <a href="https://getbootstrap.com/" title="Bootstrap"><img src="icons/bootstrap.png" /></a>
+    <a href="https://tailwindcss.com/" title="Tailwind"><img src="icons/tailwind.png" /></a>
      </div>
 <br>
   
