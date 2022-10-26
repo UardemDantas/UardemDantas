@@ -1,7 +1,7 @@
 <body>
   <center>
 <h1 align="center">  Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I’m @UardemDantas</h1>
-    <p align="center">Front-End Dev</p>
+    <h3 align="center" font-weight='bold'>Front-End Dev</h3>
     <div align="center"> 
      <a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
     <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
